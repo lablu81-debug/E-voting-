@@ -1,0 +1,8 @@
+{
+  "name": "Participation Committee E-Voting",
+  "description": "Bilingual digital ballot, live tally analytics, candidate nomination, voter registry, and certified audit reporting for workplace participation committee elections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
